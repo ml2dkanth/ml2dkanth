@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Srikanth D
+- 👋 Telecom platorm lead
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on developing a microservice based EMS/NMS platform
